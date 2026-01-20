@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15487</dc:source>
 		<dc:source>https://archive.org/details/cu31924032570180</dc:source>
-		<meta property="se:word-count">46615</meta>
+		<meta property="se:word-count">46505</meta>
 		<meta property="se:reading-ease.flesch">38.69</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-addams_democracy-and-social-ethics</meta>
 		<dc:creator id="author">Jane Addams</dc:creator>
