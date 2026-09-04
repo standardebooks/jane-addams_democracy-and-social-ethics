@@ -31,7 +31,7 @@
 		<dc:title id="title">Democracy and Social Ethics</dc:title>
 		<meta property="file-as" refines="#title">Democracy and Social Ethics</meta>
 		<dc:subject id="subject-1">Social sciences</dc:subject>
-		<dc:subject id="subject-2">United States -- Social conditions -- 1865-1918</dc:subject>
+		<dc:subject id="subject-2">United States--Social conditions--1865-1918</dc:subject>
 		<dc:subject id="subject-3">Social ethics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85124003</meta>
